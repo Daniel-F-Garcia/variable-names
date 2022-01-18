@@ -21,12 +21,14 @@ A collection of terms that are useful when naming things. See also https://unbug
 * type
 * group
 * set
+* dimension
 
 # Quantities
 
 * num
 * count
 * qty
+* size
 
 # Monetary
 
@@ -99,15 +101,27 @@ A collection of terms that are useful when naming things. See also https://unbug
 * of
 * for
 
+# Reading
+
+* read
+* load
+* import
+* fetch
+
+# Write
+
+* export
+* write
+* save
+* update
+* edit
+* persist
+* flush
+
 # Operations
 
 * mutate
-* import
 * portation
-* export
-* read
-* load
-* write
 * transform
 * generate
 * calculate
@@ -115,9 +129,6 @@ A collection of terms that are useful when naming things. See also https://unbug
 * release
 * move
 * copy
-* save
-* update
-* edit
 * create
 * add
 * new
