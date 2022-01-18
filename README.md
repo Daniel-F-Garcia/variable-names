@@ -1,6 +1,6 @@
-# variable-names
+# variable, class and method names
 
-A collection of terms that are useful when naming variables. See also https://unbug.github.io/codelf
+A collection of terms that are useful when naming things. See also https://unbug.github.io/codelf
 
 ## Keys
 
@@ -41,6 +41,8 @@ A collection of terms that are useful when naming variables. See also https://un
 * predicate
 * criteria
 * query
+* find
+* search
 
 # Ordering
 
@@ -67,6 +69,7 @@ A collection of terms that are useful when naming variables. See also https://un
 * manager
 * listener
 * handler
+* operator
 
 # Validation/rules
 
@@ -82,6 +85,19 @@ A collection of terms that are useful when naming variables. See also https://un
 * event
 * trigger
 * payload
+* notify
+
+# Accessing values
+
+* get
+* calculate
+* find
+
+# factory methodn
+
+* get
+* of
+* for
 
 # Operations
 
@@ -89,6 +105,9 @@ A collection of terms that are useful when naming variables. See also https://un
 * import
 * portation
 * export
+* read
+* load
+* write
 * transform
 * generate
 * calculate
@@ -129,3 +148,14 @@ A collection of terms that are useful when naming variables. See also https://un
 * property
 * parameter
 * rule
+* attribute
+
+# Pattern related
+
+* factory
+* wrapper
+* builder
+* lazy
+* decorator
+* proxy
+* visitor
