@@ -1,6 +1,6 @@
 # variable-names
 
-A collection of terms that are useful when naming variables
+A collection of terms that are useful when naming variables. See also https://unbug.github.io/codelf
 
 ## Keys
 
