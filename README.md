@@ -22,6 +22,12 @@ A collection of terms that are useful when naming things. See also https://unbug
 * group
 * set
 * dimension
+* tier
+* level
+* band
+* facet
+* mode
+* taxonomy
 
 # Quantities
 
