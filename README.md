@@ -65,6 +65,7 @@ A collection of terms that are useful when naming things. See also https://unbug
 * element
 * property
 * value
+* store
 
 # Process
 
@@ -78,6 +79,8 @@ A collection of terms that are useful when naming things. See also https://unbug
 * listener
 * handler
 * operator
+* publisher
+* provider
 
 # Validation/rules
 
@@ -123,6 +126,9 @@ A collection of terms that are useful when naming things. See also https://unbug
 * edit
 * persist
 * flush
+* public
+* deploy
+* push
 
 # Operations
 
