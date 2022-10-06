@@ -1,6 +1,6 @@
 # variable, class and method names
 
-A collection of terms that are useful when naming things. See also https://unbug.github.io/codelf
+A collection of terms that are useful when naming things. See also https://unbug.github.io/codelf and http://source-code-wordle.de/
 
 ## Keys
 
@@ -64,6 +64,7 @@ A collection of terms that are useful when naming things. See also https://unbug
 
 * item
 * element
+* attribute
 * property
 * value
 * store
@@ -73,6 +74,7 @@ A collection of terms that are useful when naming things. See also https://unbug
 * worker
 * agent
 * mutator
+* converter
 * action
 * actor
 * service
