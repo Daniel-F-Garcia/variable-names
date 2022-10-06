@@ -47,6 +47,7 @@ A collection of terms that are useful when naming things. See also https://unbug
 
 * filter
 * predicate
+* condition
 * criteria
 * query
 * find
@@ -81,6 +82,7 @@ A collection of terms that are useful when naming things. See also https://unbug
 * operator
 * publisher
 * provider
+* resolver
 
 # Validation/rules
 
